@@ -1,8 +1,5 @@
 <h1>VIDEO-GAME-MANAGER</h1>
 <p align="left">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="left">
 	<img src="https://img.shields.io/github/license/JosueVazqJim/Video-Game-Manager?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/JosueVazqJim/Video-Game-Manager?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/JosueVazqJim/Video-Game-Manager?style=flat-square&color=0080ff" alt="repo-top-language">
